@@ -1,10 +1,10 @@
-## Application details
+## Aplication details
 
-Application was created with ReactJS and Firebase.
+Aplication was created with ReactJS and Firebase.
 
-### Application functions
+### Aplication functions
 
-The application handles simple login and logout functions.
+The aplication handles simple login and logout functions.
 
 ## Note: 
 
