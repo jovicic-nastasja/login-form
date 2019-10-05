@@ -10,3 +10,5 @@ The aplication handles simple login and logout functions.
 
 Correct email address to test: me@gmail.com
 Password: somepassword
+
+Live demo: http://bit.ly/reactlogin
